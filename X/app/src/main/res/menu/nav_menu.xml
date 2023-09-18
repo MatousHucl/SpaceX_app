@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/CompanyData"
+        android:title="Company Data"
+        android:icon="@drawable/company_data"/>
+
+    <item android:id="@+id/RocketData"
+        android:title="Rocket Data"
+        android:icon="@drawable/rocket_data"/>
+
+    <item android:id="@+id/LaunchesData"
+        android:title="Launches Data"
+        android:icon="@drawable/launches_data"/>
+
+</menu>
